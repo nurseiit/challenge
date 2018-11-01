@@ -1,3 +1,23 @@
+html {
+  font-family: 'Black Ops One';
+  height: 100%;
+  max-height: 100%;
+}
+
+body {
+  display: flex;
+  height: 100%;
+}
 #app {
-  margin: auto auto;
+  display: flex;
+  margin: auto;
+}
+
+#app div {  
+  font-weight: bold;
+  font-size: 75px;
+  margin-left: 20px;
+}
+#app div:nth-child(2) {
+  color: red;
 }
