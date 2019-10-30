@@ -1,4 +1,4 @@
 // Start date format: (year-month-day)
-var startDate = new Date('2018-11-16');
+var startDate = new Date('2019-10-20');
 // Target Days
-var target = 30;
+var target = 40;
